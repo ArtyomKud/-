@@ -1,0 +1,15 @@
+D:\GeekBrains\Master\Итоги блока Выбор специализации\Итоговая работа\ProgrammSortingStringArray\bin\Debug\net6.0\ProgrammSortingStringArray.exe
+D:\GeekBrains\Master\Итоги блока Выбор специализации\Итоговая работа\ProgrammSortingStringArray\bin\Debug\net6.0\ProgrammSortingStringArray.deps.json
+D:\GeekBrains\Master\Итоги блока Выбор специализации\Итоговая работа\ProgrammSortingStringArray\bin\Debug\net6.0\ProgrammSortingStringArray.runtimeconfig.json
+D:\GeekBrains\Master\Итоги блока Выбор специализации\Итоговая работа\ProgrammSortingStringArray\bin\Debug\net6.0\ProgrammSortingStringArray.dll
+D:\GeekBrains\Master\Итоги блока Выбор специализации\Итоговая работа\ProgrammSortingStringArray\bin\Debug\net6.0\ProgrammSortingStringArray.pdb
+D:\GeekBrains\Master\Итоги блока Выбор специализации\Итоговая работа\ProgrammSortingStringArray\obj\Debug\net6.0\ProgrammSortingStringArray.csproj.AssemblyReference.cache
+D:\GeekBrains\Master\Итоги блока Выбор специализации\Итоговая работа\ProgrammSortingStringArray\obj\Debug\net6.0\ProgrammSortingStringArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Master\Итоги блока Выбор специализации\Итоговая работа\ProgrammSortingStringArray\obj\Debug\net6.0\ProgrammSortingStringArray.AssemblyInfoInputs.cache
+D:\GeekBrains\Master\Итоги блока Выбор специализации\Итоговая работа\ProgrammSortingStringArray\obj\Debug\net6.0\ProgrammSortingStringArray.AssemblyInfo.cs
+D:\GeekBrains\Master\Итоги блока Выбор специализации\Итоговая работа\ProgrammSortingStringArray\obj\Debug\net6.0\ProgrammSortingStringArray.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Master\Итоги блока Выбор специализации\Итоговая работа\ProgrammSortingStringArray\obj\Debug\net6.0\ProgrammSortingStringArray.dll
+D:\GeekBrains\Master\Итоги блока Выбор специализации\Итоговая работа\ProgrammSortingStringArray\obj\Debug\net6.0\refint\ProgrammSortingStringArray.dll
+D:\GeekBrains\Master\Итоги блока Выбор специализации\Итоговая работа\ProgrammSortingStringArray\obj\Debug\net6.0\ProgrammSortingStringArray.pdb
+D:\GeekBrains\Master\Итоги блока Выбор специализации\Итоговая работа\ProgrammSortingStringArray\obj\Debug\net6.0\ProgrammSortingStringArray.genruntimeconfig.cache
+D:\GeekBrains\Master\Итоги блока Выбор специализации\Итоговая работа\ProgrammSortingStringArray\obj\Debug\net6.0\ref\ProgrammSortingStringArray.dll
